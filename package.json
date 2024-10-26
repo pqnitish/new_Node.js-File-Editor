@@ -1,0 +1,20 @@
+{
+  "name": "new_node.js-file-editor",
+  "version": "1.0.0",
+  "description": "Taking input from terminal. File System Module. Node.js basics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pqnitish/new_Node.js-File-Editor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pqnitish/new_Node.js-File-Editor/issues"
+  },
+  "homepage": "https://github.com/pqnitish/new_Node.js-File-Editor#readme"
+}
